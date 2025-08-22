@@ -23,7 +23,7 @@ This manual process was time-consuming, error-prone, and repetitive.
 - Automated Login: Secure login into the portal.
 
 - Multi-Module Extraction: Downloads data for:
-** Bills ** 
+**Bills** 
 **Collections**
 **Refunds**
 **Cancelled Bills**
